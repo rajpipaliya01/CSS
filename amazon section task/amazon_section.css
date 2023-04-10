@@ -1,0 +1,126 @@
+section{
+    width: 100%;
+    background-color: #e3e6e6;
+}
+h2{
+    font-size: 21px;
+    line-height: 27px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    padding: 40px 20px 24px 15px;
+    margin: 0px;
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+.container{
+    width: 290px;
+    background-color: #ffffff;
+    /* border: 1px solid black; */
+    margin: 20px 5px 20px 10px;
+    display: inline-block;
+}
+.width{
+    /* width: 280px; */
+    display: inline-block;
+    padding: 0px 0px 30px 13px;
+    margin: 0px auto;
+}
+.width_1{
+    /* width: 290px; */
+    display: inline-block;
+    margin: 0px auto;
+    padding: 0px 13px;
+}
+.box_1{
+    /* padding-left: 0px; */
+    display: inline-block;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    width: 120px;
+}
+.box_2{
+    /* padding-left: 0px; */
+    display: inline-block;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    margin: 0px;
+    width: 120px;
+}
+.box_3{
+    display: inline-block;
+    padding-left: 5px;
+    padding-bottom: 21px;
+    padding-right: 5px;
+    margin: 0px;
+    width: 120px;
+}
+.box_4{
+    display: inline-block;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    margin: 0px;
+    width: 120px;
+}
+.box_5{
+    display: inline-block;
+    padding-left: 5px;
+    /* padding-bottom: 37px; */
+    padding-right: 5px;
+    margin: 0px;
+    width: 120px;
+}
+.box_6{
+    display: inline-block;
+    padding-left: 5px;
+    padding-bottom: 17px;
+    padding-right: 5px;
+    margin: 0px;
+    width: 120px;
+}
+.h6{
+    margin: 0px;
+    font-size: 12px;
+    line-height: 17px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.h6 a{
+    text-decoration: none;
+    color: black;
+}
+.button{
+    margin: 0px;
+    font-size: 12px;
+    line-height: 17px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    border: none;
+    background-color: white;
+    padding: 0px 0px 37px 15px;
+}
+.button a{
+    text-decoration: none;
+    color: black;
+}
+.button_1{
+    margin: 0px;
+    font-size: 12px;
+    line-height: 17px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    border: none;
+    background-color: white;
+    padding: 17px 0px 37px 15px;
+}
+.button_1 a{
+    text-decoration: none;
+    color: black;
+}
+.img_1{
+    padding-left: 15px;
+}
